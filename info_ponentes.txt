@@ -1,0 +1,6 @@
+<div class="card-body">
+    <h5 class="card-title mb-2">Abraham P. Aslla Quispe</h5>
+    <div class="card-text mb-3">
+        <div class="meta">Dr. en Física</div>
+        <div class="meta">Universidad Nacional Intercultural de Quillabamba - Perú</div>
+    </div><!--//card-text-->

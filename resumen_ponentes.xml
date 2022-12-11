@@ -1,0 +1,42 @@
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">08:00 - 08:30</h4>
+							<div class="profile">
+								<a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/55_Quispe.png" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Fredi Quispe Huaynasi</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Estrellas con alta velocidad en la Vía Láctea</h3>
+							<div class="desc"> <p align="justify"> Estrellas con alta velocidad en la Vía Láctea están asociados a fenómenos astrofísicos extremos como: 
+                            Explosión de supernovas en sistemas binarios de estrellas, interacción de estrellas binarias con agujeros negros, resultado de fusión de galaxias con nuestra Galaxia, entre otros. 
+							En está charla será expuesta una introducción sobre el origen y descubrimiento de las estrellas 
+                            con alta velocidad, búsqueda y caracterización de estrellas con alta velocidad usando recientes catálogos estelares. </p> </div>
+						</div><!--//content-->
+					</div><!--//item-->
+
+					<div class="item item-talk">
+						<div class="meta">
+							<h4 class="time mb-3">08:35 - 09:05</h4>
+							<div class="profile">
+								<a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/55_Lebron.png" alt=""></a>
+								<div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Mayra E. Lebrón Santos</a></div>
+							</div><!--//profile-->
+						</div><!--//meta-->
+						<div class="content">
+							<h3 class="title mb-3">Arecibo confirms infrared ZoA galaxies selected from spitzer data</h3>
+							<div class="desc"><p align="justify">We report the detection of 7 new galaxies in HI in the deepest 
+                            regions of the Zone of Avoidance using the Arecibo Telescope. The detected galaxies are part of a sample of 25 sources, 
+                            identified as galaxies using IR images from the SPITZER Space Telescope by Marleau et al 2008. The sample is composed of 
+                            disk galaxies as it was one of the source identification criteria in their survey. None of the sources have optical counterparts. 
+                            The velocity of the new galaxies in HI are between 5,700 km s-1 and 10,900 km s-1 and their estimated masses range from 1.5 x 10⁹ to 1.3 x 1010 solar masses. 
+                            Although the studied region is part of two HI blind searches, none of our sources were detected in HI previously. 
+                            Blind searches are optimized to cover large areas of sky but are not very deep. 
+                            Due to the HI intensities of the detected galaxies, none of them could be detected in this type of search. 
+                            HI observations of specific candidates allows more in-depth observations than blind searches but requires candidate lists to be established. 
+                            That is not possible in optical for the ZoA. 
+                            The results of this work shows that the identification of galaxies in the ZoA using IR data such as that of Marleau et al. 2008 
+                            is a viable way to study the deepest areas of the ZoA, providing candidates for further HI observations. Motivated by these results, 
+                            we have continued to work with the SPITZER Space Telescope archived data to identify new candidates in the ZoA. This work is in preparation.</p></div>
+						</div><!--//content-->
+					</div><!--//item-->
