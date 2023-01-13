@@ -1,0 +1,153 @@
+﻿<div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:00 - 08:30</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Carlos Arguelles.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Carlos A. Argüelles</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">High-Energy Neutrinos: A New Trail Towards New Physics</h3>
+                                                        <div class="desc"> <p align="justify">  
+The observation of high-energy astrophysical neutrinos by the IceCube Neutrino Observatory has open up a new window to the universe. These neutrinos traverse the longest distances from their sources and have the largest energy every observed. These neutrinos open a new trail to search for new physics that cover parameter space not accessible to terrestrial neutrino experiments. In this colloquia, I will explain the inner workings of the IceCube neutrino observatory, discuss latest measurements of high-energy astrophysical neutrinos, and provide examples of new physics searches with these neutrinos. </p> </div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Miguel Bonnett.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Miguel Bonnett Del Alamo</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Simulación en Geant4 y desempeño de detección de partículas con tecnología CMOS de bajo costo</h3>
+                                                        <div class="desc"><p align="justify">En este trabajo analizamos el desempeño de un sensor de imagen Omnivision OV5647 CMOS (5 Mp) para medir fuentes radiactivas (Sr90 y Cs137). La recopilación de datos se realiza utilizando una mini computadora Raspberry Pi 3 y la adquisición y el procesamiento se realizan con las bibliotecas Python y OpenCV. Para reducir el ruido, aplicamos un umbral de 3 sigma. Los resultados experimentales se comparan con una simulación Geant4 detallada del sensor CMOS y las fuentes radioactivas. La energía depositada en la región activa del sensor se convierte en niveles de ADC a través de una transformación de huecos de electrones. Además, incluimos la diafonía causada por la capacitancia entre píxeles (IPC). Presentamos la correlación entre los parámetros medidos y simulados en función de los valores ADC de los sensores de píxeles.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:00 - 08:30</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/John Briceño.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">John Briceño</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Introducción a la física de terapia con protones, partículas pesadas, sus aplicaciones clínicas y avances tecnológicos</h3>
+                                                        <div class="desc"> <p align="justify">  
+Radioterapia con protones y partículas de carbones es un tipo de radioterapia para la que se usan corrientes de protones (partículas minúsculas con carga positiva) o partículas pesadas con iones de Carbono, a fin de destruir las células de un tumor. En este tipo de tratamiento, la radiación causa menos daño al tejido sano cercado al tumor.</p> </div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Veronica Loaiza.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Verónica Loaiza Tacuri</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Conociendo exoplanetas a través de sus estrellas</h3>
+                                                        <div class="desc"><p align="justify">Actualmente ya son conocidos y confirmados alrededor de 5200 exoplanetas orbitando aproximadamente 3900 estrellas. Este número de planetas abre camino para nuevos estudios en el campo de los exoplanetas. La caracterización de los exoplanetas se da principalmente a través de su estrella progenitora. En ese sentido, la determinación de parámetros físicos precisos para estrellas com planetas es un paso importante en la caracterización del tamaño y naturaleza de los exoplanetas. Además de los parámetros estelares como la temperatura efectiva, gravedad superficial, masa estelar y radio estelar, la información química juega un papel importante para comprender la conexión entre el exoplaneta y su estrella. En esta presentación abordaremos los resultados encontrados para una muestra de estrellas con planetas.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+                                        
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Jesus Luizar.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Jesús Alexei Luízar Obregón</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Materiales Porosos Irreversibles Saturados. Modelos y Aplicaciones</h3>
+                                                        <div class="desc"><p align="justify">El desarrollo científico en el estudio de las propriedades de geomateriales ha permitido la incorporación de nuevos procedimientos tecnológicos para alcanzar mejores niveles de optimización en la explotación de recursos naturales. Las formaciones geológicas son constituidas por materiales porosos, los cuales son permeados por el flujo de fluidos de diversos tipos. Aquíferos, reservatorios de gas o hidrocarbonatos junto con la matriz rocosa constituyen ejemplos de cuerpos porosos saturados, cuyo comportamiento es gobernado por el acoplamiento de las leyes físicas típicas de las escalas porosa y geología. Las interacciones entre la matriz porosa (fase solida) y las fases fluidas pueden alcanzar a situaciones de bloqueo o abertura de caminos, que por su vez, pueden conducir a alteraciones de la poro-presión afectando en la deformación irreversible de la camada geológica. La complexidad de los fenómenos geomecánicas es incrementada si considerada la alta heterogeneidad de las características y propriedades físicas de los materiales envolvidos, siendo necesaria la incorporación de modelos probabilísticos. En esta presentación, abordaremos la formulación de Biot, conocida como poromecánica, que tiene como base la termodinámica de medios continuos. Mostraremos las leyes físicas y resultantes expresiones matemáticas que dictan el comportamiento irreversible de materiales porosos saturados. Finalmente, mostraremos los procedimientos numéricos de simulación computacional para el caso de la explotación de petróleo en la región del pre-sal Brasileño, localizado entre 5 a 7 mil metros de profundidad al nivel del mar.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+                                        
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Jorge Meléndez.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Jorge Meléndez</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">¿Qué tan especiales son el Sol y nuestro Sistema Solar? </h3>
+                                                        <div class="desc"><p align="justify">El sistema solar es una referencia para la vida en el universo, pero de acuerdo con nuestras observaciones para detectar planetas en estrellas gemelas solares, y también con base en estudios de la literatura, probablemente solo una pequeña fracción de los sistemas planetarios es similar al nuestro. También estamos estudiando diferentes propiedades del Sol en comparación con los gemelos solares, para investigar qué tan común es el Sol y para evaluar la posible conexión entre las anomalías en el Sol y la rareza de nuestro Sistema Solar.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Wilber Ortiz.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Wilber Ortiz</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Two-dimensional tungsten disulfide nanosheets and their application in self-powered photodetectors with ultra-high sensitivity and stability</h3>
+                                                        <div class="desc"><p align="justify">Two-dimensional (2D) tungsten disulfide nanosheets (WS2) could be a promising candidate for high-performance self-powered photodetectors. The present 2D nanosheets were obtained from liquid exfoliation in a mixture of ethanol, methanol, and isopropanol via a direct dispersion and ultrasonication method. Using the spin-coating technique, a thin film of uniform thickness was formed on the SiO2/Si substrate. Energy-dispersive X-ray analysis showed that the S/W ratio in the fabricated WS2 film was around 1.2 to 1.34, indicating certain deficiencies in the S atoms. These S vacancies induce localized states within the bandgap of pristine WS2, resulting in a higher conductivity in the exfoliated sample. The obtained thin film seems to be highly efficient in photoelectric conversion, with a responsivity of ~ 0.12 mA/W at 670 nm under zero bias voltage, with an intensity of 5.2 mW/cm2. Instead, at a bias of 2 V, it exhibits a responsivity of 12.74 mA/W and a detectivity of 1.17 × 1010 cm Hz1/2 W-1 at 4.1 mW/cm2. The present 2D nanosheets exhibit high photon absorption in a wide range of spectra from the near-infrared (IR) to near UV spectrum.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Elluz Pacheco.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Elluz Pacheco Cabrera</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Fotodetectores UV de polarización cero y ciego visibles basados en nanocables de diamante ultrananocristalino dopados con nitrógeno</h3>
+                                                        <div class="desc"><p align="justify">Aprovechando la superficie superplana del diamante ultrananocristalino (UNCD), se fabricaron matrices de nanocables (NW) UNCD de alta precisión para desarrollar fotodetectores UV de alto rendimiento. La gran relación superficie-volumen de un nanocable aumenta significativamente el número de estados de trampa en la superficie. La dimensionalidad reducida confina efectivamente el área activa del portador de carga y acorta el tiempo de tránsito, lo que da como resultado una fotoconductividad y una velocidad de respuesta mejoradas. Este documento ha demostrado y caracterizado los fotodetectores UV de polarización cero basados en matrices de nanocables de diamante ultrananocristalino con nitrógeno incorporado. La capacidad de respuesta estimada fue de 0,0 A/W para luz incidente de 350 nm cuando el dispositivo funcionaba a temperatura ambiente. Las señales de fotocorriente UVA y UVB de este fotodetector ciego visible estaban bien definidas con un tiempo de subida y bajada de menos de 1 s.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Jorge Rua Fernández.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Jorge Rua Fernández</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">REPU: Pasantías en el extranjero</h3>
+                                                        <div class="desc"><p align="justify">Research Experience for Peruvian Undergrads (REPU) es un programa que desde hace más de 10 años brinda pasantías de investigación en universidades destacadas de USA y Europa. La pasantía, que cuenta con 3 meses de duración, está dirigida a estudiantes peruanos de pregrado en las áreas de biología, química, física, ecología, nanotecnología y ciencias de la computación. Tras una convocatoria gratuita anual, estudiantes de 3er año o más pasan por un proceso de evaluación de 3 etapas. Algunos requisitos a evaluar incluyen promedio ponderado, experiencia en investigación y dominio del inglés en nivel intermedio-avanzado. Los estudiantes seleccionados se vuelven parte de la comunidad de científicos de REPU y llevan a cabo una pasantía donde desarrollan proyectos científicos y aprenden técnicas de investigación de vanguardia. Además, incluye mentoría personalizada y sesiones semanales de discusión de artículos y avances de investigación. Terminada la pasantía, todos los estudiantes se reúnen para presentar sus resultados en un seminario final que incluye la participación de otros reconocidos investigadores peruanos. REPU no ofrece apoyo económico directo. Asimismo, conscientes de las brechas económicas y de lenguaje que hay en el Perú, el programa también cuenta con una rama llamada REPU Atix. Esta rama brinda pasantías solamente en Lima y busca capacitar a los estudiantes para futuras pasantías en el extranjero. 
+
+
+Debido al todavía déficit en el desarrollo tecnológico del Perú, REPU tiene como finalidad complementar la educación superior de estudiantes peruanos de ciencias. Aparte de brindar nuevas herramientas de investigación, también los prepara en la postulación a programas de postgrado en el extranjero. El fin a largo plazo de REPU es ayudar en la formación de científicos peruanos que en el futuro ayuden a implementar e innovar la investigación científica en el Perú.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
+
+
+                                        <div class="item item-talk">
+                                                <div class="meta">
+                                                        <h4 class="time mb-3">08:35 - 09:05</h4>
+                                                        <div class="profile">
+                                                                <a href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1"><img class="profile-image rounded-circle  mb-2" src="assets/images/speakers/Teofilo Vargas.png" alt=""></a>
+                                                                <div class="name"><a class="theme-link" href="#modal-speaker-1" data-bs-toggle="modal" data-bs-target="#modal-speaker-1">Teofilo Vargas Auccalla</a></div>
+                                                        </div><!--//profile-->
+                                                </div><!--//meta-->
+                                                <div class="content">
+                                                        <h3 class="title mb-3">Flecha del tiempo en la cosmología cíclica</h3>
+                                                        <div class="desc"><p align="justify">En su obra seminal sobre cosmología cíclica, Tolman introdujo un fluido viscoso para hacer ciclos sucesivos de expansión/contracción más grandes que los anteriores, generando así una flecha del tiempo, ya que generalmente se cree que una flecha cosmológica del tiempo debe estar asociada con la producción de entropía. Sin embargo, como demostrada en recientes trabajos, la producción de entropía no es el único medio por el cual puede emerger una flecha cosmológica del tiempo. De forma sorprendente, los sistemas que no tienen disipación pueden demostrar una dirección de tiempo preferida siempre que posean atractores. En la charla revisamos una cosmología cíclica que contiene un campo escalar homogéneo donde la presencia de histéresis cosmológica hace que emerja una flecha del tiempo en un sistema que formalmente no tiene disipación. Finalmente, comentamos su extensión para un campo escalar no mínimamente acoplado.</p></div>
+                                                </div><!--//content-->
+                                        </div><!--//item-->
